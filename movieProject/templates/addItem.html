@@ -1,0 +1,15 @@
+{%extends 'base.html'%}
+{%block body%}
+<center>
+    <br>
+    <form method="POST" enctype="multipart/form-data">
+        {%csrf_token%}
+        <input type="text" name="name" placeholder="Enter the movie name"><br>
+        <input type="text" name="year" placeholder="Enter the year released"><br>
+        <input type="text" name="description" placeholder="Enter about the movie"><br>
+        <input type="file" name="image"><br>
+        <input type="submit"><br><br>
+    </form>
+    <a href="{%url 'movieApp:indexName'%}">Home</a>
+</center>
+{%endblock%}
