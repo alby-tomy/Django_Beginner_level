@@ -63,7 +63,7 @@ The project structure includes the following components:
 - Feel free to customize and expand the ToDo app based on your specific requirements. You can add more features, improve the user interface, or integrate additional functionalities.
 
 ## Interface
-![Interface](Django_Beginner_level/toDoProject/interface/Screenshot from 2024-02-02 05-28-43.png)
+![Interface Image](Django_Beginner_level/toDoProject/interface/Screenshot from 2024-02-02 05-28-43.png)
 
    
 
