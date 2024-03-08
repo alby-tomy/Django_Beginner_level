@@ -11,7 +11,7 @@
 - The Website Scraping project is a Django application designed to perform web scraping. Users can input a URL, initiate the scraping process, and view the scraped data on the web interface.
 
 ## Activation of Virtual Environment
--Follow the steps mentioned in the "Activation of Virtual Environment" section above.
+- Follow the steps mentioned in the "Activation of Virtual Environment" section above.
 
 ## Features
 - Input a URL for web scraping
