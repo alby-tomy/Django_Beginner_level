@@ -7,19 +7,6 @@
   cd DjangoSt
   source bin/activate
 
-# Movie Project
-- The Movie Project is a Django application that allows you to manage a list of movies. It includes basic CRUD operations (Create, Read, Update, Delete) for movie data, including titles and images.
-
-## Activation of Virtual Environment
-- Follow the steps mentioned in the "Activation of Virtual Environment" section above.
-
-## Features
-- View a list of movies
-- See detailed information about a specific movie
-- Add a new movie
-- Edit an existing movie
-- Delete a movie
-
 # Website Scraping
 - The Website Scraping project is a Django application designed to perform web scraping. Users can input a URL, initiate the scraping process, and view the scraped data on the web interface.
 
